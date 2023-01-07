@@ -1,6 +1,8 @@
 # Screenshots
-
+## Input Panel, Localisation Panel, Elevation View, PlanView, Output Panel
 ![plot](./Screenshot.png)
+## Output Data on "/api/data"
+![plot](./ss.jpg)
 
 # Getting Started with Create React App
 
